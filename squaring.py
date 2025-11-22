@@ -1,1 +1,0 @@
-print("squaring", 4**2)
